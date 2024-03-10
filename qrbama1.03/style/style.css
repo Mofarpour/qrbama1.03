@@ -1,0 +1,144 @@
+*{
+  box-sizing: border-box;
+    font-family:Vazirmatn;
+    direction: rtl;
+}
+h1{
+    color: rgb(32, 32, 70);
+    font-size: 30px;
+    font-weight: bolder;
+}
+h2{
+     color: rgb(32, 32, 70);
+     text-align: center;
+     margin-top: 3cm;
+     font-size: 60px;
+     font-weight: bolder;
+  
+}
+   h3{
+    color: rgb(32, 32, 70);
+}
+   h4{
+    color: rgb(32, 32, 70);
+}
+   
+p{
+    color: rgb(102, 100, 100);
+}
+body{
+    padding: 0; 
+    margin: 0;
+}
+#headerlogo{
+    background-color:rgba(255, 247, 247, 0.959)     ;
+    margin-top: .3%;
+    margin-right: 15%;
+    position: fixed;
+    width: 100%;
+}
+.navbar{
+    background-color: rgba(255, 247, 247, 0.959);
+    color:rgb(32, 32, 70);
+    padding: 20px;
+    padding-top: 30px;
+    padding-right: 33.5%;
+    position: fixed;
+    top: 0;
+    width: 100%;
+}
+.navbar a{
+    color:rgb(32, 32, 70) ;
+    text-decoration-line: none;
+    padding-right: 3%;
+    
+}
+.navbar a:hover{
+    color: rgb(112, 214, 255);
+}
+#homepage{
+    
+    padding-bottom: 5cm;
+    padding-right: 2cm;
+    padding-top:17cm;
+    background-color:rgba(112, 214, 255, 0.76);
+    background-image: url(https://qrbama.com/template/images/home_social/banner_img/img_1.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 32%;
+}
+#homepage p {
+    font-size: 20px;
+     font-weight: bolder;
+}
+
+.introduction{margin: 10%;
+    
+    padding-right: 20px;
+    padding-left: 20px;
+    padding-bottom: 6%;
+    text-align: center;
+    font-size: 18;
+}
+.introductionfirst{
+float: right;
+width: 33.3%;
+text-align: center;
+}
+.introductionsecond{
+    float: right;
+width: 33.3%;
+text-align: center;
+margin-bottom: 6%;
+}
+.introductionthird{
+   
+    float: right;
+    width: 33.3%;
+    text-align: center;
+}
+#customers{
+    margin-top: 3%;
+    padding-bottom: 10%;
+   padding-left: 17%;
+}
+.customersimg{
+    padding-top: 8%;
+    padding-right: 15%;
+}
+.customerslogo{
+    margin-right: 6%;
+    display: inline-block;
+    text-align: center;
+   padding-top: 1%; 
+   width: 27%;
+}
+.customerslogo a{
+    text-decoration-line: none;
+}
+.customers img{
+    width: 90px;
+    height: 300px;
+}
+#digitalmenu{
+    padding-left: 12%;
+    margin-right: 25%;
+    margin-bottom: 8%;
+
+}
+.digitalmenutext{
+    background-image: url(https://qrbama.com/uploaded_files/asd.png);
+    background-repeat: no-repeat;
+    background-size:40%;
+    padding-left:6cm;
+    padding-top:70%;
+    font-size: 19px;
+}
+footer{
+    background-color: rgba(206, 199, 199, 0.411);
+   
+}
+.footer{
+    text-decoration-line:  none;
+    padding-right: 3%;
+}
